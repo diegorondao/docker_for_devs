@@ -1,5 +1,5 @@
 ## Guia de estudo
-* Estudos sobre Aws
+* Estudos sobre Docker
 
 ## Sobre
 
